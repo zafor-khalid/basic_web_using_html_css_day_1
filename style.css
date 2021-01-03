@@ -1,0 +1,47 @@
+#header{
+    color: rgb(255, 255, 255);
+    background-color:  rgb(187, 0, 0);
+    border: 15px, black, solid;
+}
+body{
+    background-color: rgb(199, 213, 219);
+}
+h1{
+   
+    text-align:center;
+    font-size: 40px;
+    padding: 1px;
+}
+li{
+    
+    
+}
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+   
+  }
+  section ul {
+    list-style-type: none;
+    overflow:hidden;
+    background-color: #333333;
+    display:flex;
+    justify-content:center;
+    
+  }
+  li :hover{
+    background-color: rgb(6, 7, 77);
+  }
+  #A{
+    font-size: larger;
+
+  }
+#AA{
+    background-color: rgb(226, 226, 226);
+}
+.ab{
+    text-align: center;
+}
